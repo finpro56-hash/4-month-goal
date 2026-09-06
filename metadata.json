@@ -1,0 +1,7 @@
+{
+  "name": "4-Month Income Plan — Task Dashboard & Analytics",
+  "description": "Daily roadmap and analytics dashboard to hit ₹20,00,000 target by Dec 31, 2026, integrated with Google Drive and Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
